@@ -1,4 +1,4 @@
-package org.sang.util;
+package org.sang.utils;
 
 import org.sang.bean.User;
 import org.springframework.security.core.context.SecurityContextHolder;

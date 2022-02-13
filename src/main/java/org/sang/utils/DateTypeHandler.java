@@ -1,4 +1,4 @@
-package org.sang.util;
+package org.sang.utils;
 
 import org.apache.ibatis.type.JdbcType;
 import org.apache.ibatis.type.MappedJdbcTypes;
